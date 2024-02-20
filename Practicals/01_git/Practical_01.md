@@ -32,8 +32,8 @@
 1. Update changes from the upstream
    - Teacher to fill in the lines below, commit and push the changes
 
-         Number of students present: 
-         Weather outside: 
+         Number of students present: 20
+         Weather outside: good
    
    - Students pull the changes
    - Merge into your branch
@@ -41,8 +41,8 @@
 2. Make changes in your own repository 
    - Students to fill the lines below, commit and push the changes
    
-         Year of study:
-         Number of lectures today:
+         Year of study: 3
+         Number of lectures today: 2
 
 # Other tools
 
